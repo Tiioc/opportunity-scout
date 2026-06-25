@@ -1,0 +1,46 @@
+{
+  "offLimits": [
+    "Nutrition-label SaaS",
+    "Online personal-training / coaching apps",
+    "3D-print-farm managers",
+    "Microgreens planners",
+    "Pesticide spray logs",
+    "HACCP temperature logs",
+    "Home-inspection software",
+    "All-in-one powerlifting + nutrition app"
+  ],
+  "kept": [
+    { "name": "ClearWarn", "date": "2026-06-24", "score": 68, "summary": "Prop 65 warning co-pilot for small Etsy/Amazon/Shopify sellers." },
+    { "name": "CottageCheck", "date": "2026-06-20", "score": 53, "summary": "Cottage-food label + sales-cap tool. Re-scored down: already served by cottagefoodlabels.com, CottageFoodMarketplace." },
+    { "name": "ClaimCheck", "date": "2026-06-25", "score": 65, "summary": "Pre-publish FDA/Amazon claims scanner for supplement/skincare/food sellers." },
+    { "name": "CertifyKid", "date": "2026-06-25", "score": 64, "summary": "CPSIA Children's Product Certificate generator for handmade kids'-product sellers." },
+    { "name": "PFASready", "date": "2026-06-25", "score": 70, "summary": "Affordable PFAS product-reporting for small brands (MN Amara's Law). B2B fit risk." },
+    { "name": "SignScout", "date": "2026-06-25", "score": 66, "summary": "AI sign-permit research for small sign companies." },
+    { "name": "GPSR Kit", "date": "2026-06-25", "score": 67, "summary": "EU GPSR compliance co-pilot for small US sellers (capped by Responsible-Person services)." },
+    { "name": "PetTreatPass", "date": "2026-06-25", "score": 61, "summary": "State feed-registration + AAFCO label co-pilot for home pet-treat sellers." }
+  ],
+  "killed": [
+    { "name": "MoCRA / IFRA cosmetics compliance", "score": null, "killReason": "Saturated-niche — PetalMade, Craftybase" },
+    { "name": "Reseller COGS / 1099-K tracker", "score": null, "killReason": "Saturated-niche — My Reseller Genie, Underpriced, Vendoo" },
+    { "name": "Gourmet mushroom grow tracking", "score": null, "killReason": "Saturated-niche — MycoHub" },
+    { "name": "Climbing-gym route-setting management", "score": null, "killReason": "Saturated-niche — Vertical-Life, C4 Indoor, AMPclimb" },
+    { "name": "Local meal-prep business management", "score": null, "killReason": "Saturated-niche — GoPrep" },
+    { "name": "Drone roof-inspection report builder", "score": null, "killReason": "Saturated-niche — EagleView, DroneDeploy, SkyeBrowse" },
+    { "name": "Hunt-club / lease management", "score": null, "killReason": "Saturated-niche — Easy Lease, HuntScrape, HuntStand Pro" },
+    { "name": "Pickleball league / ladder management", "score": null, "killReason": "Saturated-niche — GPN, RIVL, DUPR, Pickleheads" },
+    { "name": "Powerlifting meet management", "score": null, "killReason": "LiftingCast incumbent; weak public demand signal" },
+    { "name": "Community garden plot management", "score": null, "killReason": "Saturated-niche — Community Garden App, SignUpReady" },
+    { "name": "Freelance fitness-instructor scheduling", "score": null, "killReason": "Saturated-niche — Vagaro, ClassFit, Gymcatch" },
+    { "name": "Embroidery / screen-print shop management", "score": null, "killReason": "Saturated-niche — DecoNetwork, Printavo, Teesom" },
+    { "name": "Solo drone real-estate media delivery", "score": null, "killReason": "Saturated-niche — HDPhotoHub, Tonomo, Rela" },
+    { "name": "Short-term-rental host compliance tracker", "score": 57, "killReason": "Pain != payment — tax auto-remitted; core need is reminders" },
+    { "name": "Vending-machine route management", "score": null, "killReason": "Saturated-niche — VendSoft, Cantaloupe, Nayax" },
+    { "name": "Beekeeping hive-log app", "score": null, "killReason": "Saturated-niche — HiveTracks, Beekeeping Diary, HiveBook" },
+    { "name": "Garden / vegetable planner app", "score": null, "killReason": "Saturated-niche — GrowVeg, Seedtime" },
+    { "name": "Christmas-light / epoxy estimating", "score": null, "killReason": "Saturated-niche — QuoteIQ, ScopeTakeoff, Measure Square" },
+    { "name": "Estate-sale company software", "score": null, "killReason": "Saturated-niche — PROSALE" },
+    { "name": "Etsy 2026-policy compliance auditor", "score": 65, "killReason": "Platform-shock crowding — iscompliant.app, ShieldMyShop already exist" },
+    { "name": "Therapist Good Faith Estimate generator", "score": null, "killReason": "Saturated-niche — SimplePractice, Headway include it" },
+    { "name": "Food-truck permit-by-city guide", "score": null, "killReason": "Saturated-niche — StreetLegal.io, PitStop" }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "opportunity-scout",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "An idea engine that continuously hunts evidence-backed niche software opportunities, researches them live, red-teams them, and keeps only the survivors.",
+  "bin": {
+    "scout": "scout.js"
+  },
+  "scripts": {
+    "scout": "node scout.js",
+    "selftest": "node scout.js --selftest"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.69.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
